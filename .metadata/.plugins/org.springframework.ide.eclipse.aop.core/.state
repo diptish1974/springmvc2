@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="KeepNote-Step1-Boilerplate"/>
+<aop-project name="disetterdemo2"/>
+<aop-project name="mvcspringdemo3"/>
+<aop-project name="mvcspringdemo1"/>
+<aop-project name="springdemo2"/>
+<aop-project name="jdbctemplatedemo1"/>
+<aop-project name="mvcfirst"/>
+<aop-project name="disetterdemo1"/>
+<aop-project name="spring-swagger-codegen-employee"/>
+<aop-project name="mvcspringdemo2"/>
+<aop-project name="mvcspringdemo4"/>
+<aop-project name="springdemo1"/>
+<aop-project name="springdemo3"/>
+</aop-reference-model>

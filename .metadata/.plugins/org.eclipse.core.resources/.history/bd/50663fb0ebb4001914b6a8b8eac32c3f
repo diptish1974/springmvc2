@@ -1,0 +1,5 @@
+package com.cgi.annotationbasedconfigurationdemo1;
+
+public class Person {
+
+}
