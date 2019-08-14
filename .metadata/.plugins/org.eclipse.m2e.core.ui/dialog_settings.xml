@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\springdemos2\hibernatedemolatest"/>
 			<item value="D:\springdemos2\mvspringdemo2"/>
 			<item value="D:\springdemos2\mvcspringdemo1"/>
 		</list>
@@ -27,10 +28,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.cgi.shop"/>
 		</list>
 		<list key="groupId">
+			<item value="com.cgi"/>
 		</list>
 		<list key="artifactId">
+			<item value="shop"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -46,12 +50,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.cgi"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="jdbcassignment"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,5 +70,20 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\admin\Desktop\demo\demo"/>
+			<item value="D:\springdemos2\sprinbootdemo1\pom.xml"/>
+			<item value="C:\Users\admin\Desktop\SPRING_SESSIONS\KeepNote-Step2-Boilerplate"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

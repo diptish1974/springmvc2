@@ -103,16 +103,22 @@
 		<item value="org.springsource.sts:3.9.9.201906181741-RELEASE"/>
 	</list>
 	<section name="ExternalProjectImportWizard">
-		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
-		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
-		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="D:\springdemos2\mvcspringdemo5withoutxml"/>
+			<item value="C:\Users\admin\Desktop\HibernateExample"/>
 			<item value="D:\springdemos"/>
 			<item value="D:\springdemos\jdbctemplatedemo1"/>
 			<item value="C:\Users\admin\Downloads\assignment-solution-step1"/>
 			<item value="D:\springday1\mvc1"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\admin\Desktop\log4j-hello-world.zip"/>
+			<item value="C:\Users\admin\Downloads\session9hibernatemvc.zip"/>
+			<item value="C:\Users\admin\Desktop\HibernateStandAloneWithAnnotationDemo.zip"/>
 			<item value=""/>
 		</list>
 	</section>
